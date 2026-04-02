@@ -1,0 +1,10 @@
+{
+  "registration": "Registration Page",
+  "name": "Name",
+  "email": "Email",
+  "phone": "Phone",
+  "password": "Password",
+  "confirm_password": "Confirm Password",
+  "register": "Register",
+  "user_info": "User Info"
+}
